@@ -1,4 +1,4 @@
 def reverse_each_word(sentence)
   myArray = sentence.split(/ /)
-  myArray.each.reverse 
+  myArray.reverse_each
 end
